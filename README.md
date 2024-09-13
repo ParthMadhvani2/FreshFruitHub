@@ -1,4 +1,4 @@
-# FreshFruitHub -Landing page application
+# FreshFruitHub - online grocery store
 
 Welcome to the FreshFruitHub Application! This is a user-friendly and easy-to-use landing page built with React, Material UI, and Tailwind CSS.
 
