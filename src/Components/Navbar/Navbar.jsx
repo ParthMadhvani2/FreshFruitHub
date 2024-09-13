@@ -8,7 +8,7 @@ import Box from '@mui/material/Box';
 import Fab from '@mui/material/Fab';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import Fade from '@mui/material/Fade';
-import logo_black from '../../assets/logo_black.png';
+import logoBlack from '../../assets/logo_black.png';
 import { Button, Container, Drawer, IconButton, List, ListItem, ListItemButton, ListItemText, Tooltip, useMediaQuery } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
@@ -211,7 +211,7 @@ const Navbar = (props) => {
                                     {/* Brand_icon */}
                                     <Link to={'/home'}>
                                         <img className='sm:max-h-6 max-h-5 my-auto cursor-pointer'
-                                            src={logo_black}
+                                            src={logoBlack}
                                             alt="grocery" />
                                     </Link>
 
